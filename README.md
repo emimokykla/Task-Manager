@@ -18,7 +18,7 @@ På VSC:
 2. Åpne filen `index.html` med "show preview" eller "go live"
 
 På GitHub:
-1. Klikk på eller søk denne lenken: ""
+1. Klikk på eller søk denne lenken i nettleseren din: "https://github.com/emimokykla/Task-Manager.git"
 
 
 ## Hvilke funksjoner som er implementert
